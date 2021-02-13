@@ -7,5 +7,5 @@
 
  👯 I’m looking to collaborate on open source projects - 🤔 I’m looking for help with fintech softwares 💬 Ask me about basic python programs 
 
-- 📫 How to reach me: You can reach me on #https://twitter.com/emmzy_flowski twitter
+- 📫 How to reach me: You can reach me on whatsapp and call:+2348164828761
 - ⚡ Fun fact: Also a musician 
