@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Adoyi</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+<h3 align="center">A Hardcore Tinkerer who loves solving hard challenges and Problems. Email me hard challenges</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmzy17&label=Profile%20views&color=0e75b6&style=flat" alt="emmzy17" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Image Steganography](Building API for Different Softwares)
 
-- 🌱 I’m currently learning **FastAPI, Web3, Internet, Databases and other Awesome stuffs**
+- 🌱 I’m currently learning **FastAPI, Hacking, Internet, Databases and other Awesome stuffs**
 
 - 👯 I’m looking to collaborate on [Open Source Blockchain and AI Projects](Cybersecurity Tools and Projects)
 
